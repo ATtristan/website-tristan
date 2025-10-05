@@ -1,0 +1,24 @@
+body {
+  background-color: #d9e8d0; /* soft green */
+  background-image: url('/assets/img/paper-texture.png');
+  background-size: cover;
+  font-family: 'VT323', monospace; /* pixel font */
+  color: #2e2e2e;
+}
+
+.post {
+  border: 2px solid #5c6b57;
+  background-color: #fefbe6;
+  box-shadow: 3px 3px 0 #b6c4aa;
+  border-radius: 0; /* square edges for pixel look */
+  padding: 1em;
+}
+
+a {
+  color: #3a6b3a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

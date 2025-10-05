@@ -6,3 +6,8 @@ theme: jekyll-theme-simple-texture
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
