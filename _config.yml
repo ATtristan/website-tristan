@@ -2,8 +2,9 @@ title: Tristan's Blog
 description: A cozy retro journal about my thoughts
 url: https://your-github-username.github.io
 baseurl: ""
-theme: jekyll-theme-simple-texture
+remote_theme: yizeng/jekyll-theme-simple-texture
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
