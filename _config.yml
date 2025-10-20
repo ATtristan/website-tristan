@@ -1,19 +1,4 @@
-title: Tristan's Blog
-description: A cozy retro journal about my thoughts
+title: Tristan Sampang
+description: Tristan Sampang
 url: https://ATtristan.github.io
 baseurl: ""
-remote_theme: yizeng/jekyll-theme-simple-texture
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-include:
-  - _pages
-
-
-
-
-sass:
-  style: compressed
-  load_paths:
-    - assets/css
