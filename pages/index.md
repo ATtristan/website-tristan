@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <!-- Default homepage for tristansampang.com -->
 <title> tristansampang</title>
